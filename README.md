@@ -1,3 +1,6 @@
+## EX.NO:
+## DATE:
+
  ## IMPLEMENTATION OF RSA
  # AIM :
  To write a C program to implement the RSA encryption algorithm.
@@ -93,6 +96,8 @@ return 0;
 Thus the C program to implement RSA encryption technique had been
 implemented successfully
 
+## EX.NO:
+## DATE:
 ## IMPLEMENTATION OF AES
 ## AIM:
 To use Advanced Encryption Standard (AES) Algorithm for a practical
@@ -170,8 +175,10 @@ Encrypted URL : vibpFJW6Cvs5Y+L7t4N6YWWe07+JzS1d3CU2h3mEvEg=
 Decrypted URL : www.annauniv.edu
 
 ## RESULT:
+Thus the program had been implemented successfully
 
-
+## EX.NO:
+## DATE:
 
 ## IMPLEMENTATION OF DIFFIE HELLMAN KEY EXCHANGE ALGORITHM
 
@@ -255,6 +262,8 @@ implemented using C.
 
 
 
+## EX.NO:
+## DATE:
 
 ## IMPLEMENTATION OF DES ALGORITHM
 
